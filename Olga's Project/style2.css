@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Libre+Baskerville&family=Playfair+Display:wght@700&family=Plus+Jakarta+Sans:wght@200;400&family=Poppins:wght@300&display=swap');
+.body {
+    background-color: #FFFFFF;
+}
+
+.header {
+    font-family: 'Poppins', sans-serif;
+    padding-top: 20px;
+}
+
+.container {
+    max-width: 1440px;
+    padding: 0 340px 0 40px;
+    margin: 0 auto;
+}
+
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 98px;
+}
+
+.nav-list {
+    display:flex;
+    column-gap: 56px;
+    list-style-type: none;
+    font-weight: 400;
+    font-size: 13px; 
+}
+
+.nav-item {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.nav-link {
+    color: #2D2F30;
+}
+
+.header-row {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+    padding: 0 41px 0 140px;
+}
+
+.content{
+    max-width: 550px;
+    margin-top: 160px;
+    font-family: 'Playfair Display', serif;
+    color:#067B96;
+    font-weight: bold;
+    font-size: 65px;
+    margin-bottom: 44px;
+}
+.content-header {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: #4F4F4F;
+    font-weight: 400;
+    max-width: 550px;
+}
+
+.words1{
+    background-color:#067B96;
+    color: #F9F8F9;
+}
+.content-back {
+    margin-top: 126px;
+    color: #8B8C8C;
+}
+
+
+.our-services{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 0px 0 167px;
+    background-color: #F2F7FF;
+}
+
+.Services {
+    max-width: 550px;
+    font-family: 'Playfair Display', serif;
+    color: #2D2F30;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.serv {
+    max-width: 550px;
+    color: #8B8C8C;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.collections {
+    background-color: white;
+    width: 256px;
+    height: 207px;
+    margin-top: 43px;
+    margin-left: 598px;
+}
+
+.Claims {
+    background-color: white;
+    width: 253px;
+    height: 253px;
+    margin-left:30px;
+    margin-top: 43px;
+}
+
+.Starting {
+    background-color: white;
+    width: 259px;
+    height: 255px;
+    margin-top: 69px;
+    margin-right: 19px;
+}
+
+.incorporation {
+    width: 252px;
+    height: 207px;
+    margin-left: 600px;
+    margin-top: 324px;
+    margin-left: 32px;
+}
+
